@@ -1,0 +1,23 @@
+{
+  "name": "vuepdflook",
+  "version": "1.0.1",
+  "description": "look pdf vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wugaoliang1116/vuepdflook.git"
+  },
+  "keywords": [
+    "pdf",
+    "vue"
+  ],
+  "author": "wugaoliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wugaoliang1116/vuepdflook/issues"
+  },
+  "homepage": "https://github.com/wugaoliang1116/vuepdflook#readme"
+}
