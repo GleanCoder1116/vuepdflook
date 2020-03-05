@@ -3,14 +3,14 @@
 		<div class="center">
 			<div class="contor">
 				<button class="btn" @click="prev">
-					<span>上一页</span>
+					<span>Previ</span>
 				</button>
-				<button class="btn" @click="next">下一页</button> &nbsp; &nbsp;
+				<button class="btn" @click="next">Next</button> &nbsp; &nbsp;
 				<span>Page: <span v-text="page_num"></span> / <span v-text="page_count"></span></span>
 				&nbsp; &nbsp;
 				<button class="btn" @click="addscale" >+</button>
 				<button class="btn" @click="minus" >-</button>
-				<button class="btn" @click="closepdf">关闭</button>
+				<button class="btn" @click="closepdf">Close</button>
 				
 			</div>
 			<canvas class="canvasstyle" id="the-canvas"></canvas>
